@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prem-prakash-sharma&label=Profile%20views&color=0e75b6&style=flat" alt="prem-prakash-sharma" /> </p>
 
-- 🔭 I’m currently working on **SMTP Server**
+- 🔭 I’m currently working on **Inprove My Skills**
 
 - 📫 How to reach me **premprakashsharma9211@gmail.com**
 
