@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prem-prakash-sharma&label=Profile%20views&color=0e75b6&style=flat" alt="prem-prakash-sharma" /> </p>
 
-- 🔭 I’m currently working on **Inprove My Skills**
+- 🔭 I’m currently working on **Improve My Skills**
 
 - 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/premprakashsharma/)**
 
