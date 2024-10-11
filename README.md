@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Prem Prakash Sharma and I'm a web developer, from  India.</h2>
+<h2 align="center">Hi 👋! My name is Prem Prakash Sharma and I'm a Developer, from  India.</h2>
 
 ###
 
