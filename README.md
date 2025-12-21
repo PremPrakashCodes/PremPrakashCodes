@@ -13,14 +13,6 @@ Passionate about problem solving, clean code, and learning new technologies.
 Currently focused on building scalable web applications with modern tech stack.  
 *"Code with purpose, learn with curiosity! 💡"*
 
-<div align="center">
-
-[![Years Badge](https://badges.pufler.dev/years/PremPrakashCodes)](https://badges.pufler.dev)
-[![Repos Badge](https://badges.pufler.dev/repos/PremPrakashCodes)](https://badges.pufler.dev)
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/PremPrakashCodes)](https://badges.pufler.dev)
-
-</div>
-
 ## 🛠️ Tech Arsenal
 
 ### 💻 Programming Languages
