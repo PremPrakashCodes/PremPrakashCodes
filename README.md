@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Prem+Prakash+Sharma!;Full-Stack+Developer+%7C+India;Always+Learning+%26+Growing+🚀" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Prem+Prakash+Sharma!;Software+Developer+%7C+India;Always+Learning+%26+Growing+🚀" alt="Typing animation" />
 </div>
 
 <div align="center">
@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-**Full-Stack Developer from India 🇮🇳**  
+**Software Developer from India 🇮🇳**  
 Passionate about problem solving, clean code, and learning new technologies.  
 Currently focused on building scalable web applications with modern tech stack.  
 *"Code with purpose, learn with curiosity! 💡"*
