@@ -17,7 +17,7 @@ Currently focused on building scalable web applications with modern tech stack.
 
 ### 💻 Programming Languages
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,ts,python" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python" />
 </div>
 
 ### 🎨 Frontend Development
@@ -27,7 +27,7 @@ Currently focused on building scalable web applications with modern tech stack.
 
 ### ⚡ Backend Development
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,graphql" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
 </div>
 
 ### 🗄️ Databases & Storage
@@ -41,11 +41,6 @@ Currently focused on building scalable web applications with modern tech stack.
 </div>
 
 ## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PremPrakashCodes&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PremPrakashCodes&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
-</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PremPrakashCodes&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=FFFFFF" />
