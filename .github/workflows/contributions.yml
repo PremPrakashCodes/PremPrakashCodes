@@ -1,0 +1,57 @@
+name: Update Contributions
+
+on:
+  schedule:
+    # Runs at 00:00 on the first day of each month
+    - cron: "0 0 1 * *"
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Fetch PRs
+        run: |
+          curl -s "https://api.github.com/search/issues?q=author:PremPrakashCodes+type:pr&per_page=100" > prs.json
+
+      - name: Extract repos and take top 10
+        run: |
+          cat prs.json | jq -r '.items[].repository_url' | sort | uniq -c | sort -nr | head -10 > repos.txt
+
+      - name: Fetch repo details & generate UI
+        run: |
+          echo "<table>" > section.md
+          while read count repo; do
+            owner=$(echo $repo | awk -F'/' '{print $(NF-1)}')
+            name=$(basename $repo)
+            repo_data=$(curl -s https://api.github.com/repos/$owner/$name)
+            stars=$(echo $repo_data | jq '.stargazers_count')
+            lang=$(echo $repo_data | jq -r '.language')
+            [ "$lang" = "null" ] && lang="Other"
+            echo "<tr>" >> section.md
+            echo "<td width='60px'><img src='https://github.com/$owner.png' width='50px' style='border-radius:10px'/></td>" >> section.md
+            echo "<td>
+            <b><a href='https://github.com/$owner/$name'>$owner/$name</a></b><br/>
+            ⭐ $stars &nbsp; 🔀 $count PRs<br/>
+            <img src='https://img.shields.io/badge/$lang-black?style=flat&logo=$(echo $lang | tr '[:upper:]' '[:lower:]' | tr ' ' '-')'/>
+            </td>" >> section.md
+            echo "</tr>" >> section.md
+          done < repos.txt
+          echo "</table>" >> section.md
+
+      - name: Inject into README
+        run: |
+          awk '/<!--START_SECTION:contributions-->/{print;system("cat section.md");next}/<!--END_SECTION:contributions-->/{print;next}1' README.md > new.md
+          mv new.md README.md
+
+      - name: Commit & push
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+          git add README.md
+          git commit -m "Updated Top Contributions" || echo "No changes"
+          git push
