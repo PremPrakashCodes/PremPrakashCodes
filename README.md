@@ -51,27 +51,6 @@ Currently focused on building scalable web applications with modern tech stack.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PremPrakashCodes&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=FFFFFF" />
 </div>
 
-## 🏆 Achievement Showcase
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PremPrakashCodes&theme=radical&no-frame=true&row=1&column=7&margin-h=10&margin-w=10" />
-</div>
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PremPrakashCodes&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" />
-</div>
-
-## 💡 What I'm Up To
-
-- 🔭 Currently working on **building scalable full-stack applications**
-- 🌱 Learning **DevOps practices and cloud architecture**
-- 👯 Looking to collaborate on **open source projects**
-- 💬 Ask me about **React, Node.js, Java, or anything tech!**
-- 📫 Reach out: **Always happy to connect and discuss tech!**
-- ⚡ Fun fact: **I debug with console.log() and I'm not ashamed! 😄**
-
 ## 🤝 Let's Connect & Collaborate
 
 <div align="center">
