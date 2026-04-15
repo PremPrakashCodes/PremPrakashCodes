@@ -63,8 +63,6 @@ Currently focused on building scalable web applications with modern tech stack.
   
 ### 💭 *"The best way to predict the future is to create it!"* 
   
-![Profile Views](https://komarev.com/ghpvc/?username=PremPrakashCodes&color=00D9FF&style=flat-square&label=Profile+Views)
-[![GitHub followers](https://img.shields.io/github/followers/PremPrakashCodes?label=Followers&style=social)](https://github.com/PremPrakashCodes)
 <a href="https://u8views.com/github/PremPrakashCodes"><img src="https://u8views.com/api/v1/github/profiles/87075688/views/day-week-month-total-count.svg"></a>
 
 </div>
