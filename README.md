@@ -65,8 +65,8 @@ Currently focused on building scalable web applications with modern tech stack.
   
 <a href="https://u8views.com/github/PremPrakashCodes"><img src="https://u8views.com/api/v1/github/profiles/87075688/views/day-week-month-total-count.svg"></a>
 
-<a href="https://gitranks.com/github/user/PremPrakashCodes"><img src="https://gitranks.com/api/badge/v2/PremPrakashCodes?ranking=c&context=global&type=position&meta=none&label=Global+Contributor+Rank&cornerStyle=rounded&labelBgColor=%235c5c5c&valueBgColor=%237f5539" alt="GitRanks Global Rank" /></a>
-<a href="https://gitranks.com/github/user/PremPrakashCodes"><img src="https://gitranks.com/api/badge/v2/PremPrakashCodes?ranking=c&context=country&type=position&meta=none&label=India+Contributor+Rank&cornerStyle=rounded&labelBgColor=%235c5c5c&valueBgColor=%237f5539" alt="GitRanks India Rank" /></a>
+<a href="https://gitranks.com/profile/PremPrakashCodes"><img src="https://gitranks.com/api/badge/v2/PremPrakashCodes?ranking=c&context=global&type=position&meta=none&label=Global+Contributor+Rank&cornerStyle=rounded&labelBgColor=%235c5c5c&valueBgColor=%232282c2" alt="GitRanks Global Rank" /></a>
+<a href="https://gitranks.com/profile/PremPrakashCodes"><img src="https://gitranks.com/api/badge/v2/PremPrakashCodes?ranking=c&context=country&type=position&meta=none&label=India+Contributor+Rank&cornerStyle=rounded&labelBgColor=%235c5c5c&valueBgColor=%232282c2" alt="GitRanks India Rank" /></a>
 
 </div>
 
